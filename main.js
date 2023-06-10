@@ -3,3 +3,4 @@ const pato = () => {
 }
 
 pato()
+pato()
